@@ -1,1 +1,1 @@
-This repository contains code from the first half of the Numerical Methods/Algorithms course at SMU (MATH 6315 with Johannes Tausch, Fall 2015). Code is written in Matlab. Still in the processing of uploading as of 3/21/17.
+This repository contains code from the first half of the Numerical Methods/Algorithms course at SMU (MATH 6315 with Johannes Tausch, Fall 2015). Code is written in Matlab. Still in the processing of uploading as of 5/1/18.
